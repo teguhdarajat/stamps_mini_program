@@ -7,13 +7,13 @@ This project is a simple Python program that generates a list of numbers based o
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/mini-program.git
+   git clone git@github.com:teguhdarajat/stamps_mini_program.git
    ```
 
 2. **Navigate into the project directory:**
 
    ```bash
-   cd mini-program
+   cd stamps_mini_program
    ```
 
 3. **Install the required packages:**
